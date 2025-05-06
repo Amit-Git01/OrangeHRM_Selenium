@@ -1,0 +1,115 @@
+2025-05-06 21:50:34.991 [TestNG-test-Test-3] INFO  com.reader.ConfigReader - File is loaded succesfully
+2025-05-06 21:50:37.174 [TestNG-test-Test-3] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:37.174 [TestNG-test-Test-5] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:37.174 [TestNG-test-Test-4] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:37.174 [TestNG-test-Test-1] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:37.174 [TestNG-test-Test-2] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:40.499 [TestNG-test-Test-2] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:40.518 [TestNG-test-Test-2] INFO  com.utils.Listener - Test is started : test_pim_add_emp
+2025-05-06 21:50:41.098 [TestNG-test-Test-4] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:41.110 [TestNG-test-Test-4] INFO  com.utils.Listener - Test is started : test_login_with_invalid_credentials
+2025-05-06 21:50:41.143 [TestNG-test-Test-2] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:41.155 [TestNG-test-Test-1] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:41.166 [TestNG-test-Test-1] INFO  com.utils.Listener - Test is started : test_pim
+2025-05-06 21:50:41.237 [TestNG-test-Test-2] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:41.375 [TestNG-test-Test-5] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:41.386 [TestNG-test-Test-5] INFO  com.utils.Listener - Test is started : test_login_with_valid_credentials
+2025-05-06 21:50:41.398 [TestNG-test-Test-3] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:41.405 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed Admin into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> name: username]
+2025-05-06 21:50:41.406 [TestNG-test-Test-3] INFO  com.utils.Listener - Test is started : test_pim_fail
+2025-05-06 21:50:41.416 [TestNG-test-Test-2] INFO  com.models.LoginPage - Entered username: Admin
+2025-05-06 21:50:41.600 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed admin123 into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> name: password]
+2025-05-06 21:50:41.619 [TestNG-test-Test-2] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:41.716 [TestNG-test-Test-4] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:41.789 [TestNG-test-Test-1] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:41.825 [TestNG-test-Test-4] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:41.913 [TestNG-test-Test-1] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:41.957 [TestNG-test-Test-5] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:42.006 [TestNG-test-Test-4] INFO  com.models.BaseModel - Typed Admin into element [[ChromeDriver: chrome on windows (2842b13d2b658112aa8e428f1a434167)] -> name: username]
+2025-05-06 21:50:42.016 [TestNG-test-Test-4] INFO  com.models.LoginPage - Entered username: Admin
+2025-05-06 21:50:42.065 [TestNG-test-Test-5] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:42.083 [TestNG-test-Test-1] INFO  com.models.BaseModel - Typed Admin into element [[ChromeDriver: chrome on windows (2ec4c465a572dad84f0ecddfe2101436)] -> name: username]
+2025-05-06 21:50:42.095 [TestNG-test-Test-1] INFO  com.models.LoginPage - Entered username: Admin
+2025-05-06 21:50:42.191 [TestNG-test-Test-4] INFO  com.models.BaseModel - Typed admin1234 into element [[ChromeDriver: chrome on windows (2842b13d2b658112aa8e428f1a434167)] -> name: password]
+2025-05-06 21:50:42.205 [TestNG-test-Test-4] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:42.224 [TestNG-test-Test-5] INFO  com.models.BaseModel - Typed Admin into element [[ChromeDriver: chrome on windows (f8925228c9132e7a3dd3758d85847de1)] -> name: username]
+2025-05-06 21:50:42.233 [TestNG-test-Test-5] INFO  com.models.LoginPage - Entered username: Admin
+2025-05-06 21:50:42.262 [TestNG-test-Test-1] INFO  com.models.BaseModel - Typed admin123 into element [[ChromeDriver: chrome on windows (2ec4c465a572dad84f0ecddfe2101436)] -> name: password]
+2025-05-06 21:50:42.273 [TestNG-test-Test-1] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:42.407 [TestNG-test-Test-5] INFO  com.models.BaseModel - Typed admin123 into element [[ChromeDriver: chrome on windows (f8925228c9132e7a3dd3758d85847de1)] -> name: password]
+2025-05-06 21:50:42.417 [TestNG-test-Test-5] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:42.490 [TestNG-test-Test-3] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:42.591 [TestNG-test-Test-3] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:42.803 [TestNG-test-Test-3] INFO  com.models.BaseModel - Typed Admin into element [[ChromeDriver: chrome on windows (d2f2d91fc23e35cfd952e0b1b48441cc)] -> name: username]
+2025-05-06 21:50:42.817 [TestNG-test-Test-3] INFO  com.models.LoginPage - Entered username: Admin
+2025-05-06 21:50:43.043 [TestNG-test-Test-3] INFO  com.models.BaseModel - Typed admin123 into element [[ChromeDriver: chrome on windows (d2f2d91fc23e35cfd952e0b1b48441cc)] -> name: password]
+2025-05-06 21:50:43.059 [TestNG-test-Test-3] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:44.067 [TestNG-test-Test-2] INFO  com.models.BaseModel - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'
+2025-05-06 21:50:44.093 [TestNG-test-Test-2] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:44.192 [TestNG-test-Test-4] INFO  com.models.BaseModel - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'
+2025-05-06 21:50:44.213 [TestNG-test-Test-4] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:44.310 [TestNG-test-Test-1] INFO  com.models.BaseModel - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'
+2025-05-06 21:50:44.327 [TestNG-test-Test-1] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:44.583 [TestNG-test-Test-5] INFO  com.models.BaseModel - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'
+2025-05-06 21:50:44.600 [TestNG-test-Test-5] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:44.831 [TestNG-test-Test-4] INFO  com.models.LoginPage - Error message is displayed : Invalid credentials
+2025-05-06 21:50:44.835 [TestNG-test-Test-4] INFO  com.utils.Listener - Test is Success : test_login_with_invalid_credentials
+2025-05-06 21:50:44.848 [TestNG-test-Test-2] INFO  com.models.DashboardPage - Dashboard heading is displayed: Dashboard
+2025-05-06 21:50:45.059 [TestNG-test-Test-1] INFO  com.models.DashboardPage - Dashboard heading is displayed: Dashboard
+2025-05-06 21:50:45.107 [TestNG-test-Test-4] INFO  com.base.PageDriver - Browser is closed.
+2025-05-06 21:50:45.303 [TestNG-test-Test-5] INFO  com.models.DashboardPage - Dashboard heading is displayed: Dashboard
+2025-05-06 21:50:45.511 [TestNG-test-Test-5] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (f8925228c9132e7a3dd3758d85847de1)] -> css selector: .oxd-userdropdown-tab]
+2025-05-06 21:50:45.531 [TestNG-test-Test-5] INFO  com.models.DashboardPage - Clicked on user dropdown
+2025-05-06 21:50:45.570 [TestNG-test-Test-3] INFO  com.models.BaseModel - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button[@type='submit']'
+2025-05-06 21:50:45.585 [TestNG-test-Test-3] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:46.271 [TestNG-test-Test-4] INFO  com.utils.DriverManager - chrome browser initialized
+2025-05-06 21:50:46.860 [TestNG-test-Test-3] INFO  com.models.DashboardPage - Dashboard heading is displayed: Dashboard
+2025-05-06 21:50:47.118 [TestNG-test-Test-2] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> css selector: .oxd-main-menu-item]
+2025-05-06 21:50:47.119 [TestNG-test-Test-2] INFO  com.models.DashboardPage - Clicked on PIM
+2025-05-06 21:50:47.589 [TestNG-test-Test-1] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (2ec4c465a572dad84f0ecddfe2101436)] -> css selector: .oxd-main-menu-item]
+2025-05-06 21:50:47.589 [TestNG-test-Test-1] INFO  com.models.DashboardPage - Clicked on PIM
+2025-05-06 21:50:47.921 [TestNG-test-Test-2] INFO  com.models.pim.PIMPage - PIM heading is displayed: PIM
+2025-05-06 21:50:48.833 [TestNG-test-Test-1] INFO  com.models.pim.PIMPage - PIM heading is displayed: PIM
+2025-05-06 21:50:48.956 [TestNG-test-Test-5] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (f8925228c9132e7a3dd3758d85847de1)] -> xpath: //ul[@role='menu']/li/a]
+2025-05-06 21:50:48.956 [TestNG-test-Test-5] INFO  com.models.DashboardPage - Clicked on logout
+2025-05-06 21:50:48.958 [TestNG-test-Test-5] INFO  com.utils.Listener - Test is Success : test_login_with_valid_credentials
+2025-05-06 21:50:49.037 [TestNG-test-Test-3] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (d2f2d91fc23e35cfd952e0b1b48441cc)] -> css selector: .oxd-main-menu-item]
+2025-05-06 21:50:49.038 [TestNG-test-Test-3] INFO  com.models.DashboardPage - Clicked on PIM
+2025-05-06 21:50:49.234 [TestNG-test-Test-5] INFO  com.base.PageDriver - Browser is closed.
+2025-05-06 21:50:49.241 [TestNG-test-Test-2] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> css selector: .oxd-topbar-body-nav-tab]
+2025-05-06 21:50:49.241 [TestNG-test-Test-2] INFO  com.models.pim.PIMPage - Clicked on Add Employee
+2025-05-06 21:50:49.469 [TestNG-test-Test-4] INFO  com.utils.DriverManager - browser navigate to url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-06 21:50:49.480 [TestNG-test-Test-4] INFO  com.utils.Listener - Test is started : test_login_without_credentials
+2025-05-06 21:50:49.814 [TestNG-test-Test-1] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (2ec4c465a572dad84f0ecddfe2101436)] -> css selector: .oxd-topbar-body-nav-tab]
+2025-05-06 21:50:49.815 [TestNG-test-Test-1] INFO  com.models.pim.PIMPage - Clicked on Add Employee
+2025-05-06 21:50:49.816 [TestNG-test-Test-1] INFO  com.utils.Listener - Test is Success : test_pim
+2025-05-06 21:50:50.057 [TestNG-test-Test-1] INFO  com.base.PageDriver - Browser is closed.
+2025-05-06 21:50:50.492 [TestNG-test-Test-3] INFO  com.utils.ScreenshotUtils - Screenshot taken.
+2025-05-06 21:50:50.493 [TestNG-test-Test-3] INFO  com.utils.Listener - Test is failed : test_pim_fail
+2025-05-06 21:50:50.558 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Dashboard heading is displayed: Add Employee
+2025-05-06 21:50:50.623 [TestNG-test-Test-4] INFO  com.models.LoginPage - Login heading displayed : Login
+2025-05-06 21:50:50.713 [TestNG-test-Test-4] INFO  com.models.LoginPage - Forgot link is displayed : Forgot your password?
+2025-05-06 21:50:50.790 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed Amd into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> name: firstName]
+2025-05-06 21:50:50.804 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Entered first name: Amd
+2025-05-06 21:50:50.859 [TestNG-test-Test-4] INFO  com.models.BaseModel - Typed  into element [[ChromeDriver: chrome on windows (578c9d6a289508ca4b3cb07d6f08a5aa)] -> name: username]
+2025-05-06 21:50:50.868 [TestNG-test-Test-4] INFO  com.models.LoginPage - Entered username: 
+2025-05-06 21:50:51.036 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed sam into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> name: lastName]
+2025-05-06 21:50:51.046 [TestNG-test-Test-4] INFO  com.models.BaseModel - Typed  into element [[ChromeDriver: chrome on windows (578c9d6a289508ca4b3cb07d6f08a5aa)] -> name: password]
+2025-05-06 21:50:51.052 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Entered last name: sam
+2025-05-06 21:50:51.055 [TestNG-test-Test-4] INFO  com.models.LoginPage - Entered password
+2025-05-06 21:50:51.199 [TestNG-test-Test-4] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (578c9d6a289508ca4b3cb07d6f08a5aa)] -> xpath: //button[@type='submit']]
+2025-05-06 21:50:51.210 [TestNG-test-Test-4] INFO  com.models.LoginPage - Clicked on login button
+2025-05-06 21:50:51.245 [TestNG-test-Test-4] INFO  com.utils.Listener - Test is Success : test_login_without_credentials
+2025-05-06 21:50:51.307 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed 12390 into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: (//label[normalize-space(text())='Employee Id']/following::input)[1]]
+2025-05-06 21:50:51.320 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Entered empid: 12390
+2025-05-06 21:50:51.429 [TestNG-test-Test-4] INFO  com.base.PageDriver - Browser is closed.
+2025-05-06 21:50:51.514 [TestNG-test-Test-2] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: //input[@type='checkbox']/following-sibling::span[1]]
+2025-05-06 21:50:51.529 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Clicked on toggle
+2025-05-06 21:50:51.784 [TestNG-test-Test-2] INFO  com.models.BaseModel - Clicked on element: [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: //div[@class='oxd-radio-wrapper']//label]
+2025-05-06 21:50:52.115 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed reamt into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: (//label[normalize-space(text())='Username']/following::input)[1]]
+2025-05-06 21:50:52.135 [TestNG-test-Test-2] INFO  com.models.pim.AddEmployee - Entered username: reamt
+2025-05-06 21:50:52.344 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed qwerty1 into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: //input[@type='password']]
+2025-05-06 21:50:52.406 [TestNG-test-Test-3] INFO  com.base.PageDriver - Browser is closed.
+2025-05-06 21:50:52.609 [TestNG-test-Test-2] INFO  com.models.BaseModel - Typed qwerty1 into element [[ChromeDriver: chrome on windows (edaed31352e82f7af338772a87eb9877)] -> xpath: //input[@type='password']]
+2025-05-06 21:50:52.611 [TestNG-test-Test-2] INFO  com.utils.Listener - Test is Success : test_pim_add_emp
+2025-05-06 21:50:52.922 [TestNG-test-Test-2] INFO  com.base.PageDriver - Browser is closed.
