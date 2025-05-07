@@ -33,7 +33,7 @@ public class Pim_Test extends BaseTest {
 		DashboardPage dash = loginPage.login("Admin", "admin123");
 		dash.verify_dashboardPage_isDisplayed();
 		PIMPage pim = dash.clickOnPIM();
-		pim.verify_title("Tim");
+		pim.verify_title("PIM");
 		pim.clickOnAddEmployee();
 		
 	}
